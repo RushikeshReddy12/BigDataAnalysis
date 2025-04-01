@@ -18,3 +18,8 @@ The work mostly concentrated on performing several aggregations arranged accordi
 In conclusion, I used Dask to successfully demonstrate the scalability of data analysis on a large dataset. I was able to perform several aggregate operations, including mean, sum, count, maximum, minimum, and standard deviation, on large amounts of data while maintaining high performance using Dask. This task showed how Dask can handle datasets larger than memory limits by utilizing parallel computing and out-of-core processing. Dask has proven to be a valuable tool for scalable data analysis and is a great choice for working with large datasets in Python.*
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/5b13d310-2f2e-42f1-801a-663e517c83b6)
+![Image](https://github.com/user-attachments/assets/690de7b2-8e41-4340-869a-e9c8467a798d)
+![Image](https://github.com/user-attachments/assets/485b21bd-ac33-42c1-b14a-691556052e83)
+![Image](https://github.com/user-attachments/assets/dfaab20a-fbfe-44ac-bcbc-91cbfc688e10)
+![Image](https://github.com/user-attachments/assets/cdc8614b-a5a2-40de-a82d-d33a62f13599)
